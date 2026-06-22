@@ -46,5 +46,5 @@ The system automates the complete ML pipeline:
 The framework demonstrates automated optimization on the Titanic dataset, automatically discovering high-performing configurations through intelligent search and agent-based reasoning.
 
 
-# Dr.Sokaki & Yahyazadeh
+Dr.Sokaki & Yahyazadeh
 
