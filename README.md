@@ -46,8 +46,7 @@ The system automates the complete ML pipeline:
 The framework demonstrates automated optimization on the Titanic dataset, automatically discovering high-performing configurations through intelligent search and agent-based reasoning.
 
 ## Installation
-
-```bash
 pip install -r requirements.txt
 
 # Dr.Sokaki & Yahyazadeh
+
